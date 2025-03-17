@@ -6,11 +6,10 @@
 /*   By: aallou-v <aallou-v@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/03 14:43:36 by aallou-v          #+#    #+#             */
-/*   Updated: 2025/03/11 11:59:51 by aallou-v         ###   ########.fr       */
+/*   Updated: 2025/03/17 17:56:27 by aallou-v         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <iostream>
 #include "Array.tpp"
 
 #define SIZE 5
